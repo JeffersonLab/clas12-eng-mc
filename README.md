@@ -1,5 +1,19 @@
 # Geometry Import from Engineering Model to GEMC
 
+## Shell Instruction
+
+ - show content of directory: ls -l 
+ 
+
+
+## Git Instructions
+
+
+ - show status: git status -s
+   ?? means the file is not yet added to the repo
+ - add file to repo: git add filename
+
+
 
 ## General guidelines
 
