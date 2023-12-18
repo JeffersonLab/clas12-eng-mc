@@ -1,23 +1,27 @@
 # Geometry Import from Engineering Model to GEMC
 
-## Shell Instruction
+## Shell One Liners:
 
- - show content of directory: ls -l 
- 
-
-
-## Git Instructions
-
-
- - show status: git status -s
-   ?? means the file is not yet added to the repo
- - add file to repo: git add filename
+- `pwd`: show current directory
+- `TAB`: autocomplete with filenames in current directory
+- `ls -l`: show content of current director
+- `cd`: change directory
+- `cd ..`: go up one level
+- `mkdir`: create directory
+- `rm -f filename`: remove file
 
 
+## Git One Liners:
+
+- `git clone`: clone a repository
+- `git pull`: pull changes from remote repository
+- `git add`: add file to repository
+- `git commit -m "message"`: commit changes to repository with message
+- `git status -s`: show status of repository
+- `git log`: show log of commits
+- `git push`: push changes to remote repository
 
 ## General guidelines
-
-
 
 ### 1. Filter out unnecessary volumes.  
 
