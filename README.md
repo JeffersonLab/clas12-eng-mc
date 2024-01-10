@@ -17,6 +17,8 @@ Anything modified will be shown with `M`. Anything new will be shown with `A`.
 
 `git push`: push changes to remote repository
 
+`git mv oldname newname`: rename or move files. 
+
 ## Shell One Liners:
 - `dir`: show content of current directory
 - `cd clas12-eng-mc`: go to clas12-eng-mc directory
