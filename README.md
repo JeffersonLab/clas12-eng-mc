@@ -1,9 +1,27 @@
 # Geometry Import from Engineering Model to GEMC
 
-## Shell One Liners:
+## Remember ↑ will load previous commands
 
+# Start on workdir
+
+`cd clas12 + TAB`: go to clas12-eng-mc directory
+
+`git pull`: pull changes from remote repository
+
+`git status -s`: show status of repository. Anything new will be shown with `??`. 
+Anything modified will be shown with `M`. Anything new will be shown with `A`.
+
+`git add filename`: add file to repository. 
+
+`git commit -m"description"`
+
+`git push`: push changes to remote repository
+
+## Shell One Liners:
+- `dir`: show content of current directory
+- `cd clas12-eng-mc`: go to clas12-eng-mc directory
+- `TAB`: autocomplete with filenames in current directory, so for example you can type `cd clas12` and then TAB to autocomplete
 - `pwd`: show current directory
-- `TAB`: autocomplete with filenames in current directory
 - `ls -l`: show content of current director
 - `cd`: change directory
 - `cd ..`: go up one level
